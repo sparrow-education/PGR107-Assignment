@@ -1,5 +1,7 @@
 # PGR107 Python Assignment
 
+#### Authors: Jack Xia & Gabriel Berrios   
+
 ```mermaid
 
 %%{init: {'theme': 'neutral'}}%%
